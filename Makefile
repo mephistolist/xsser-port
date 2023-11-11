@@ -27,8 +27,4 @@ GH_ACCOUNT=	mephistolist
 GH_PROJECT=	xsser-port
 GH_TAGNAME=	v${PORTVERSION}
 
-post-extract:
-		${CP} ${PORTSDIR}/security/${PORTNAME}/files/setup.py ${WRKSRC}/
-		${CP} ${PORTSDIR}/security/${PORTNAME}/work-${PY_FLAVOR}/${PORTNAME}-${PORTVERSION}/xsser ${LOCALBASE}/bin/xsser
-
 .include <bsd.port.mk>
