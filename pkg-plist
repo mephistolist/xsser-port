@@ -1,0 +1,6 @@
+@dir /usr/share/applications
+@dir /usr/share/doc/xsser
+@dir /usr/share/xsser/gtk/docs
+@dir /usr/share/xsser/gtk/images
+@dir /usr/share/xsser/gtk
+@dir /usr/share/xsser
