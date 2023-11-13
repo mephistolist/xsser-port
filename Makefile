@@ -3,7 +3,7 @@ PORTVERSION=	1.8.4
 CATEGORIES=	security
 MASTER_SITES=	https://teamsloth.net/
 
-MAINTAINER=	notmyemail@gmail.com
+MAINTAINER=	cloneozone@gmail.com
 COMMENT=	XSS Exploration
 WWW=		https://xsser.03c8.net
 
