@@ -1,7 +1,7 @@
 PORTNAME=	xsser
 PORTVERSION=	1.8.4
 CATEGORIES=	security
-MASTER_SITES=	https://teamsloth.net/
+MASTER_SITES=	https://github.com/mephistolist/xsser-port/blob/main/
 
 MAINTAINER=	cloneozone@gmail.com
 COMMENT=	XSS Exploration
